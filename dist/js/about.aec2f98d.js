@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkspa_marvel"]=self["webpackChunkspa_marvel"]||[]).push([[594],{5609:function(a,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=u(6768);const r={class:"about"},s=(0,e.Lk)("h1",null,"This is an about page",-1),t=[s];function c(a,n){return(0,e.uX)(),(0,e.CE)("div",r,t)}var l=u(1241);const i={},o=(0,l.A)(i,[["render",c]]);var f=o}}]);
+//# sourceMappingURL=about.aec2f98d.js.map
