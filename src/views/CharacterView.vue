@@ -2,11 +2,11 @@
 import { Options, Vue } from 'vue-class-component';
 import { BaseRepositoryFactory } from '@/repositories/BaseRepositoryFactory'
 
-const CharacaterRepository = BaseRepositoryFactory.get('characters')
+const CharacterRepository = BaseRepositoryFactory.get('characters')
 @Options({})
 export default class CharacterView extends Vue {
   async created() {
-    await CharacaterRepository.listAll()
+    await CharacterRepository.listAll()
   }
 }
 </script>
